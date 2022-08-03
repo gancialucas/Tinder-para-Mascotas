@@ -10,8 +10,10 @@ Aplicación web que permite el registro de Usuarios y su/sus mascotas
 
 * Java
 * HTML y CSS
-* SpringBoot
 * Thymeleaf
+* [SpringBoot](https://start.spring.io/) - El framework web usado
+* [MySQL](https://www.mysql.com/) - Base de datos utilizada 
+* [Bootstrap](https://getbootstrap.com/) - Front
 
 ## Autor ✒️
 
